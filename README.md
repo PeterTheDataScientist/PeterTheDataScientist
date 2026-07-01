@@ -23,7 +23,7 @@ Currently a Data Scientist at [AI Creative Solutions](https://aicreative.solutio
 
 ## Links
 
-- Portfolio: [petermundowa.vercel.app](https://petermundowa.vercel.app)
+- Portfolio: [petermundowa.com)
 - LinkedIn: [petertinashemundowa](https://www.linkedin.com/in/petertinashemundowa)
 - Zindi: [PeterTheAnalyst](https://zindi.africa/users/PeterTheAnalyst)
 - Kaggle: [petermundowa](https://www.kaggle.com/petermundowa)
